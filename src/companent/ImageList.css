@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.imageList {
+    margin: 40px 100px;
+    columns: 250px 4;
+    column-gap: 10px;
+}
+
+.image {
+    width: 100%;
+    padding: 10px;
+}
